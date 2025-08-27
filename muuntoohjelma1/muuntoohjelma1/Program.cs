@@ -10,6 +10,8 @@ namespace muuntoohjelma1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("moi");
+
             Console.WriteLine("Kaikki yksiköt: mm, cm, m, km, tuuma, jalka, maili");
 
             Console.Write("Syötä yksikkö mistä olet kääntämässä: ");
@@ -57,3 +59,6 @@ namespace muuntoohjelma1
         }
     }
 }
+//moi
+//gheegoejiojoisjggjegesriojesrijgeoijgio
+//iojgijiejiogejgjejgejgiesgjegesigjore
