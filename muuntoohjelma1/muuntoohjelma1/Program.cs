@@ -53,6 +53,7 @@ namespace muuntoohjelma1
             }
 
             Console.WriteLine(arvo + " " + lukumistäkäännetään + " = " + muutettuArvo + " " + yksikkömihikäännetään);
+            // urho niinimäki teki tämän
         }
     }
 }
